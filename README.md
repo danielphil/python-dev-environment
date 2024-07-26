@@ -1,4 +1,4 @@
-# python-dev-environment
+# python-service
 A skeleton environment for writing services using FastAPI and SQLAlchemy for data storage.
 
 # Setup
