@@ -10,8 +10,7 @@
             "request": "launch",
             "module": "uvicorn",
             "args": [
-                "python_dev_environment.main:app",
-                "--reload"
+                "python_dev_environment.main:app"
             ],
             "jinja": true
         }
