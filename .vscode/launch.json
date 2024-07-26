@@ -10,7 +10,7 @@
             "request": "launch",
             "module": "uvicorn",
             "args": [
-                "python_dev_environment.main:app"
+                "python_service.main:app"
             ],
             "jinja": true
         }

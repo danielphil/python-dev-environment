@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "python-dev-environment"
+name = "python-service"
 version = "0.1.0"
 description = ""
 authors = ["Daniel Phillips <dphildev@gmail.com>"]

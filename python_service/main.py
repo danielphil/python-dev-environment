@@ -1,7 +1,7 @@
 from fastapi import Depends, FastAPI, HTTPException
 from pytest import Session
 
-from python_dev_environment import database, models, schemas
+from python_service import database, models, schemas
 
 
 app = FastAPI()
